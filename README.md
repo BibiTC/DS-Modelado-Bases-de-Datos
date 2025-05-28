@@ -54,4 +54,4 @@ Este proyecto existe gracias al curso de ONE Oracle Next Education y Alura Latam
 
 ## Licencia
 
-Challenge Data Science - Modelado Datos Python is [MIT licensed].
+Data Science - Modelado de Base de Datos [MIT licensed].
