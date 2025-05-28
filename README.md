@@ -33,7 +33,7 @@ Finalizado
 ---
 
 ## 📁 Acceso al proyecto
-El proyecto se puede descargar o acceder desde este link de GitHub, son diagramas que se pueden visualizar en https://app.diagrams.net/ (Modelo Concpetual y Logico) y para ver el Modelo fisico debe instalarse SQL Power Architect https://bestofbi.com/architect-download/ .
+El proyecto se puede descargar o acceder desde este link de GitHub, son diagramas que se pueden visualizar en https://app.diagrams.net/ (Modelo Conceptual y Logico) y para ver el Modelo fisico debe instalarse SQL Power Architect https://bestofbi.com/architect-download/ .
 
 [GitHub - Challenge Data Science - Modelado Datos Python](https://github.com/BibiTC/DS-Modelado-Bases-de-Datos.git)
 
